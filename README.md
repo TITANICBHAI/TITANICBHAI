@@ -41,7 +41,7 @@ Monitors the foreground window every **500ms** via `Win32 GetForegroundWindow()`
 
 `Kotlin 1.9` `Compose Multiplatform Desktop 1.6` `JNA 5.14` `Win32` `PowerShell` `SQLite` `jpackage`
 
-Live: [titanicbhai.github.io/FocusFlow-jvm](https://titanicbhai.github.io/FocusFlow-jvm/)
+Live: [focusflowpc.pages.dev/](https://focusflowpc.pages.dev/)
 
 ---
 
